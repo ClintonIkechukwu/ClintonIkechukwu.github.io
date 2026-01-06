@@ -1,4 +1,3 @@
-
 # ClintonIkechukwu.github.io
 
 Personal portfolio website showcasing my projects, publications, awards, and professional background.
